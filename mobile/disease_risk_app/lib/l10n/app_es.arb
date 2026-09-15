@@ -1,0 +1,13 @@
+{
+    "appTitle": "VitaGuard AI",
+    "selectDiagnostics": "Seleccionar Diagnósticos",
+    "chooseModel": "Elija un modelo clínico para generar una evaluación de riesgo de IA explicable.",
+    "retryConnection": "Reintentar Conexión",
+    "history": "Historial de Evaluaciones",
+    "clearHistory": "Borrar Todo",
+    "noHistory": "No hay historial disponible.\\n¡Complete una evaluación primero!",
+    "aiConfidence": "Confianza de la IA",
+    "savePdf": "Guardar como PDF",
+    "startNew": "Iniciar Nueva Evaluación",
+    "visualImpact": "Análisis de Impacto Visual"
+}

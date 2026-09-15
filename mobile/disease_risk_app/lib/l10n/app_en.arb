@@ -1,0 +1,13 @@
+{
+    "appTitle": "VitaGuard AI",
+    "selectDiagnostics": "Select Diagnostics",
+    "chooseModel": "Choose a clinical model to generate an explainable AI risk assessment.",
+    "retryConnection": "Retry Connection",
+    "history": "Assessment History",
+    "clearHistory": "Clear All",
+    "noHistory": "No history available.\\nComplete an assessment first!",
+    "aiConfidence": "AI Confidence",
+    "savePdf": "Save as PDF",
+    "startNew": "Start New Assessment",
+    "visualImpact": "Visual Impact Analysis"
+}
