@@ -65,13 +65,19 @@ flutter run
 
 ## 📸 Application Screenshots
 
-*(Upload and add your screenshots here before publishing!)*
-* `<img src="path/to/home_screen.png" width="200" />`
-* `<img src="path/to/form_screen.png" width="200" />`
-* `<img src="path/to/result_screen.png" width="200" />`
-* `<img src="path/to/history_screen.png" width="200" />`
+<img width="720" height="1469" alt="1" src="https://github.com/user-attachments/assets/dde17157-b3b4-4ccb-a0b6-9bc2052b4f5d" />
+<img width="720" height="1481" alt="2" src="https://github.com/user-attachments/assets/c8d18ebf-1548-490b-97a1-26c04171f871" />
+<img width="720" height="1468" alt="3" src="https://github.com/user-attachments/assets/b55367a2-b95e-44a3-a8c1-499c6e639cab" />
+<img width="720" height="1486" alt="4" src="https://github.com/user-attachments/assets/9d243d67-e032-4808-a8e1-fad5e2bad122" />
+<img width="720" height="1475" alt="5" src="https://github.com/user-attachments/assets/9365ef73-6586-4174-8edb-f441a912f717" />
+<img width="720" height="1478" alt="6" src="https://github.com/user-attachments/assets/b883ad5c-3b8e-49d4-9ccf-13d9558190fe" />
+<img width="720" height="1540" alt="7" src="https://github.com/user-attachments/assets/a5e0438d-b08f-4efe-adb9-68eadaf30842" />
+<img width="720" height="1466" alt="8" src="https://github.com/user-attachments/assets/ad506d93-a87f-4884-9ef5-78798b63a97d" />
+<img width="702" height="1449" alt="9" src="https://github.com/user-attachments/assets/235f466b-e90a-43c3-bce4-bd537f0c0f20" />
+<img width="702" height="1454" alt="10" src="https://github.com/user-attachments/assets/a5816ea3-8e8b-4131-b31f-9741523a31b9" />
+<img width="720" height="1455" alt="11" src="https://github.com/user-attachments/assets/ea070963-b4bf-4cf2-bf98-6dc83dca07a4" />
+<img width="656" height="1345" alt="12" src="https://github.com/user-attachments/assets/02b2f367-7d8b-4292-8832-880e2ab65677" />
 
----
 
 ## 🔮 Limitations and Future Work
 A primary limitation of the current system is its reliance on static, pre-trained scikit-learn models, which do not adapt to new patient data over time (lack of continuous learning). Furthermore, the clinical datasets utilized for training may contain inherent demographic biases, potentially affecting prediction accuracy across diverse populations. 
